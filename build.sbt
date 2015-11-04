@@ -1,3 +1,8 @@
+import sbtassembly.AssemblyKeys
+import AssemblyKeys._
+
+
+
 name := "server"
 
 version := "1.0"
